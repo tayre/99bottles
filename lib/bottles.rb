@@ -1,5 +1,4 @@
- class Bottles
-
+class Bottles
   def song
     verses(99, 0)
   end
@@ -54,5 +53,4 @@
       "bottles"
     end
   end
-
 end
